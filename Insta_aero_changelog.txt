@@ -7,7 +7,7 @@ IF YOU DON'T WANT TO SEE THIS UPDATE NOTIFICATION, YOU CAN DISABLE UPDATE CHECKI
 InstaMod Aero V17.0.2 Update Details:
 
 
-• The basic Instagram version has been updated to version 204.0.0.30.119.
+• The basic Instagram version has been updated to version 204.0.0.30.120.
 
 • Added new fonts to "Typewriter font" option (InstaMod Aero 》 Storyker 》 Typewriter font).
 
