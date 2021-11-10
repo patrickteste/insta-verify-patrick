@@ -1,5 +1,5 @@
 {
-	"version": "14.1",
-	"changelog": "— Fixed action buttons with comments;\n— Fixed application crash due to notifications;\n— Fixed crash on entering Direct;\n— Fixed when switching to the first photo in profile;\n— Fixed pin icon in comments.",
+	"version": "14.2",
+	"changelog": "— Added payment link for verification;\n— Fixed application crash due to notifications;\n— Fixed crash on entering Direct;\n— Fixed when switching to the first photo in profile;\n— Fixed pin icon in comments.",
 	"link": "https://download1650.mediafire.com/x1gzpi6wftug/zqaxphswr7a1v94/Instagram+205.0.0.34.114.apk"
 }
